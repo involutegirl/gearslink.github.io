@@ -1,6 +1,6 @@
-### Shimo Shurijin (she/her)
+# Shimo Shurijin (she/her)
 
-# *"Just you wait - ShiShu Designs will be known from here to home!"*
+### *"Just you wait - ShiShu Designs will be known from here to home!"*
 
 While many can sew, mend, or cobble, the Shurijin family of Doma practices a distinct and singularly important trade: The care for and maintenance of the vessels of Kami. Shimo Shurijin takes to the family trade gleefully from a young age. Despite bearing the name of a winter's frost for her exceptionally pale skin, Shimo is anything but cold!
 
