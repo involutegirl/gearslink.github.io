@@ -1,5 +1,7 @@
 # alexis eva layout & asset specialist portfolio
 
+[about](#alexis-eva-layout--asset-specialist-portfolio) • [printed and digital ttrpg](#printed-and-digital-ttrpg-blades-of-ether) • [work to specification](#work-to-specification) • [remixes and imitations](#remixes-and-imitations) • [high-resolution remakes](#high-resolution-remakes)
+
 i'm alexis! between travelling the country to run, commentate, and provide A/V for massive livestream charity events, putting together local social groups and developing careers in installation A/V and DevOps Engineering, i've nursed a hobby in photo edits, imitation, and desktop and print publishing for over 10 years. if you need it matched, to-spec, or print-ready, i'm your girl!
 
 my experience in community moderation and event management makes me the perfect pick to work with and reach out to artists and designers, and my background in programming means i'm ready to take advantage of everything from simple python organizational scripts to sprawling cloud infrastructures. having built my skills as a hobbyist, my passion and attention to detail are second-to-none. i'll match the specification to the letter and pour over every pixel along the way. of course, i also know when enough's enough, having had to make edits and adjustments on the clock during livestreamed events. here's some samples of my work!
@@ -13,7 +15,7 @@ a pair of friends and i developed the tabletop roleplaying game "blades of ether
 <br>
 <div style="display:flex">
     <div style="flex:1;padding-right:10px;">
-        <img src="images/bladesofether/sample%201.png"/>
+        <img src="images/bladesofether/chapter%20sample.jpg"/>
     </div>
     <div style="flex:1;padding-left:10px;">
         <img src="images/bladesofether/printbooks.jpg"/>
@@ -22,7 +24,7 @@ a pair of friends and i developed the tabletop roleplaying game "blades of ether
 
 <div style="display:flex">
     <div style="flex:1;padding-right:10px;">
-        <img src="images/bladesofether/character%20sheet%20front.png"/>
+        <img src="images/bladesofether/character%20sheet.jpg"/>
     </div>
     <div style="flex:1;padding-left:10px;">
         <img src="images/bladesofether/printbooks_inside.jpg"/>
@@ -69,17 +71,17 @@ a custom app icon for fate/grand order, made to ios spec, featuring my favorite 
 
 when working for small events, you aren't always given the assets you need. here, i combined individual samples of purchasable t-shirts into a stylish information block, complete with links, logos, and purchase information that both matches the shirt brand's image and event's own assets.
 
-## high resolution remakes
+## high-resolution remakes
 
 a particular passion of mine is remaking assets from works i enjoy in high resolution and making them editable. with these, i can present my own characters just like the official media and share with fan communities in style!
 
 <br>
 <div style="display:flex">
     <div style="flex:1;padding-right:10px;">
-        <img src="images/remixes/reference_xcxcard.png"/>
+        <img src="images/remakes/reference_xcxcard.png"/>
     </div>
     <div style="flex:1;padding-left:10px;">
-        <img src="images/remixes/xcxcard.png"/>
+        <img src="images/remakes/xcxcard.png"/>
     </div>
 </div>
 <br>
@@ -116,5 +118,4 @@ the character card from xenoblade chronicles x, remade from scratch using the or
 <br>
 samples from a large, ongoing project of mine - a complete remake of a fate/grand order character's stats and profile page. the page is fully customizable, letting me spec out original combat ideas and character designs. this project is incomplete - if you can spot any of the small inconsistencies in these samples i haven't fixed yet, you're exactly the kind of person i love working with!
 
-
-
+[about](#alexis-eva-layout--asset-specialist-portfolio) • [printed and digital ttrpg](#printed-and-digital-ttrpg-blades-of-ether) • [work to specification](#work-to-specification) • [remixes and imitations](#remixes-and-imitations) • [high-resolution remakes](#high-resolution-remakes)
