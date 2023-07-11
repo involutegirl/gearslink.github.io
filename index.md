@@ -2,11 +2,9 @@
 
 i'm alexis! between travelling the country to run, commentate, and provide A/V for massive livestream charity events, putting together local social groups and developing careers in installation A/V and DevOps Engineering, i've nursed a hobby in photo edits, imitation, and desktop and print publishing for over 10 years. if you need it matched, to-spec, or print-ready, i'm your girl!
 
-my experience in community moderation and event management makes me the perfect pick to work with and reach out to artists and designers, and my background in programming means i'm ready to take advantage of everything from simple python organizational scripts to sprawling cloud infrastructures. having built my skills as a hobbyist, my passion and attention to detail are second-to-none. i'll match the specification to the letter and pour over every pixel along the way. of course, i also know when enough's enough, having had to make edits and adjustments on the clock during livestreamed events.
+my experience in community moderation and event management makes me the perfect pick to work with and reach out to artists and designers, and my background in programming means i'm ready to take advantage of everything from simple python organizational scripts to sprawling cloud infrastructures. having built my skills as a hobbyist, my passion and attention to detail are second-to-none. i'll match the specification to the letter and pour over every pixel along the way. of course, i also know when enough's enough, having had to make edits and adjustments on the clock during livestreamed events. here's some samples of my work!
 
-## sample projects
-
-### printed and digital ttrpg: blades of ether
+## printed and digital ttrpg: blades of ether
 
 a pair of friends and i developed the tabletop roleplaying game "blades of ether" over the course of about two years. in addition to all the shared writing and design work, i did the entirety of the desktop publishing and layout design, created the character sheets, and coordinated with the artists we hired to create the cover art and logo. i also found and worked with the local print publisher to do a limited run of print copies. the digital pdf is fully bookmarked with interactable links, and the project of course required a bevvy of assets for its webpage on itch.io, not to mention pdf variants, downloadables, and version updates. as a highlight of creativity on a limited budget, you'll note that the inside page backgrounds use texture elements from the cover art's source material!
 
@@ -15,7 +13,7 @@ a pair of friends and i developed the tabletop roleplaying game "blades of ether
 <br>
 <div style="display:flex">
     <div style="flex:1;padding-right:10px;">
-        <img src="images/bladesofether/sample%201.jpg"/>
+        <img src="images/bladesofether/sample%201.png"/>
     </div>
     <div style="flex:1;padding-left:10px;">
         <img src="images/bladesofether/printbooks.jpg"/>
@@ -60,28 +58,16 @@ over the years, i've edited, remixed, and remade countless images and assets. i 
         <img src="images/remixes/reference_fgoapplogo.jpg"/>
     </div>
     <div style="flex:1;padding-left:10px;">
-        <img src="images/remixes/fatefranorderbetter.png"/>
+        <img src="images/remixes/fgoicon.png"/>
     </div>
 </div>
 <br>
 
 a custom app icon for fate/grand order, made to ios spec, featuring my favorite character.
 
-<br>
-<div style="display:flex">
-    <div style="flex:1;padding-right:10px;">
-        <img src="images/remixes/reference_clow.png"/>
-    </div>
-    <div style="flex:1;padding-left:10px;">
-        <img src="images/remixes/clowgears.png"/>
-    </div>
-</div>
+![alt text](images/remixes/yeteepromopuwp.png "yetee promo on puwp")
 
-a cardcaptor sakura "clow card" character i created and drew by hand (digitally, of course). i don't consider myself much of an artist, but i'm not afraid to pull out the tablet and fix up an asset where necessary!
-
-![alt text](images/remixes/yeteepromopuwp22.png "yetee promo on puwp")
-
-when working for small events, you aren't always given the assets you need. here, i combined individual samples of purchasable t-shirts into a stylish information block, complete with links, logos, and purchase information that both matches the shirt brand's image and blends in with the event's own assets.
+when working for small events, you aren't always given the assets you need. here, i combined individual samples of purchasable t-shirts into a stylish information block, complete with links, logos, and purchase information that both matches the shirt brand's image and event's own assets.
 
 ## high resolution remakes
 
