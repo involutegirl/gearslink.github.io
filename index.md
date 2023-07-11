@@ -87,6 +87,17 @@ when working for small events, you aren't always given the assets you need. here
 
 a particular passion of mine is remaking assets from works i enjoy in high resolution and making them editable. with these, i can present my own characters just like the official media and share with fan communities in style!
 
+<br>
+<div style="display:flex">
+    <div style="flex:1;padding-right:10px;">
+        <img src="images/remixes/reference_xcxcard.png"/>
+    </div>
+    <div style="flex:1;padding-left:10px;">
+        <img src="images/remixes/xcxcard.png"/>
+    </div>
+</div>
+<br>
+
 the character card from xenoblade chronicles x, remade from scratch using the original font and all-vector layout assets.
 
 <br>
