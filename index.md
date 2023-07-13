@@ -1,4 +1,4 @@
-# Alexis Eva Layout & Asset Apecialist Portfolio
+# Alexis Eva Layout & Asset Specialist Portfolio
 
 [About](#alexis-eva-layout--asset-apecialist-portfolio) • [Printed and Digital TTRPG](#printed-and-digital-ttrpg-blades-of-ether) • [Work to Specification](#work-to-specification) • [Remixes and Imitations](#remixes-and-imitations) • [High-Resolution Remakes](#high-resolution-remakes)
 
