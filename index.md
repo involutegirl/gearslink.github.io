@@ -1,16 +1,16 @@
-# alexis eva layout & asset specialist portfolio
+# Alexis Eva Layout & Asset Apecialist Portfolio
 
-[about](#alexis-eva-layout--asset-specialist-portfolio) • [printed and digital ttrpg](#printed-and-digital-ttrpg-blades-of-ether) • [work to specification](#work-to-specification) • [remixes and imitations](#remixes-and-imitations) • [high-resolution remakes](#high-resolution-remakes)
+[About](#alexis-eva-layout--asset-apecialist-portfolio) • [Printed and Digital TTRPG](#printed-and-digital-ttrpg-blades-of-ether) • [Work to Specification](#work-to-specification) • [Remixes and Imitations](#remixes-and-imitations) • [High-Resolution Remakes](#high-resolution-remakes)
 
-i'm alexis! between travelling the country to run, commentate, and provide A/V for massive livestream charity events, putting together local social groups and developing careers in installation A/V and DevOps Engineering, i've nursed a hobby in photo edits, imitation, and desktop and print publishing for over 10 years. if you need it matched, to-spec, or print-ready, i'm your girl!
+I'm alexis! between travelling the country to run, commentate, and provide A/V for massive livestream charity events, putting together local social groups and developing careers in installation A/V and DevOps Engineering, I've nursed a hobby in photo edits, imitation, and desktop and print publishing for over 10 years. If you need it matched, to-spec, or print-ready, I'm your girl!
 
-my experience in community moderation and event management makes me the perfect pick to work with and reach out to artists and designers, and my background in programming means i'm ready to take advantage of everything from simple python organizational scripts to sprawling cloud infrastructures. having built my skills as a hobbyist, my passion and attention to detail are second-to-none. i'll match the specification to the letter and pour over every pixel along the way. of course, i also know when enough's enough, having had to make edits and adjustments on the clock during livestreamed events. here's some samples of my work!
+My experience in community moderation and event management makes me the perfect pick to work with and reach out to artists and designers, and my background in programming means I'm ready to take advantage of everything from simple python organizational scripts to sprawling cloud infrastructures. Having built my skills as a hobbyist, my passion and attention to detail are second-to-none. I'll match the specification to the letter and pour over every pixel along the way. Of course, I also know when enough's enough, having had to make edits and adjustments on the clock during livestreamed events. Here's some samples of my work!
 
-## printed and digital ttrpg: blades of ether
+## Printed and Digital TTRPG: Blades of Ether
 
-a pair of friends and i developed the tabletop roleplaying game "blades of ether" over the course of about two years. in addition to all the shared writing and design work, i did the entirety of the desktop publishing and layout design, created the character sheets, and coordinated with the artists we hired to create the cover art and logo. i also found and worked with the local print publisher to do a limited run of print copies. the digital pdf is fully bookmarked with interactable links, and the project of course required a bevvy of assets for its webpage on itch.io, not to mention pdf variants, downloadables, and version updates. as a highlight of creativity on a limited budget, you'll note that the inside page backgrounds use texture elements from the cover art's source material!
+I was part of the development team for the tabletop roleplaying game "Blades of Ether" over the course of about two years. In addition to all the shared writing and design work, I did the entirety of the desktop publishing and layout design, created the character sheets, and coordinated with the artists we hired to create the cover art and logo. I also found and worked with the local print publisher to do a limited run of print copies. The digital PDF is fully bookmarked with interactable links, and the project of course required a bevvy of assets for its webpage on itch.io, not to mention PDF variants, downloadables, and version updates. As a highlight of creativity on a limited budget, you'll note that the inside page backgrounds use texture elements from the cover art's source material!
 
-[learn about blades of ether here.](https://witchs-hex.itch.io/blades-of-ether)
+[Learn about Blades of Ether here.](https://witchs-hex.itch.io/blades-of-ether)
 
 <br>
 <div style="display:flex">
@@ -34,7 +34,7 @@ a pair of friends and i developed the tabletop roleplaying game "blades of ether
 
 ## work to specification
 
-if given a specification or work set, i'll match it to the letter. here's two examples, an asset set for a mastodon instance, and a fictional ID card that's ready to print.
+If given a specification or work set, I'll match it to the letter. Here's two examples, an asset set for a Mastodon instance, and a fictional ID card that's ready to print.
 
 <br>
 <div style="display:flex">
@@ -52,7 +52,7 @@ if given a specification or work set, i'll match it to the letter. here's two ex
 
 ## remixes and imitations
 
-over the years, i've edited, remixed, and remade countless images and assets. i thrive on high-resolution and vector assets and the chance to explore details down to the pixel.
+over the years, i've edited, remixed, and remade countless images and assets. I thrive on high-resolution and vector assets and the chance to explore details down to the pixel.
 
 <br>
 <div style="display:flex">
@@ -65,15 +65,15 @@ over the years, i've edited, remixed, and remade countless images and assets. i 
 </div>
 <br>
 
-a custom app icon for fate/grand order, made to ios spec, featuring my favorite character.
+A custom app icon for Fate/Grand Order, made to iOS spec, featuring my favorite character.
 
-![alt text](images/remixes/yeteepromopuwp.png "yetee promo on puwp")
+![alt text](images/remixes/yeteepromopuwp.png "Yetee promo on PUWP")
 
-when working for small events, you aren't always given the assets you need. here, i combined individual samples of purchasable t-shirts into a stylish information block, complete with links, logos, and purchase information that both matches the shirt brand's image and event's own assets.
+[Power Up With Pride](https://powerupwithpride.org) is a livestreamed Twitch charity marathon I co-founded and ran for many years that's raised over $100,000 for the Trevor Project! When working for small events, you aren't always given the assets you need. Here, I combined individual samples of purchasable t-shirts into a stylish information block, complete with links, logos, and purchase information that both matches the shirt brand's image and event's own assets.
 
-## high-resolution remakes
+## High-Resolution Remakes
 
-a particular passion of mine is remaking assets from works i enjoy in high resolution and making them editable. with these, i can present my own characters just like the official media and share with fan communities in style!
+A particular passion of mine is remaking assets from works I enjoy in high resolution and making them editable. With these, I can present my own characters just like the official media and share with fan communities in style!
 
 <br>
 <div style="display:flex">
@@ -86,7 +86,7 @@ a particular passion of mine is remaking assets from works i enjoy in high resol
 </div>
 <br>
 
-the character card from xenoblade chronicles x, remade from scratch using the original font and all-vector layout assets.
+The character card from Xenoblade Chronicles X, remade from scratch using the original font and all-vector layout assets.
 
 <br>
 <div style="display:flex">
@@ -116,6 +116,7 @@ the character card from xenoblade chronicles x, remade from scratch using the or
     </div>
 </div>
 <br>
-samples from a large, ongoing project of mine - a complete remake of a fate/grand order character's stats and profile page. the page is fully customizable, letting me spec out original combat ideas and character designs. this project is incomplete - if you can spot any of the small inconsistencies in these samples i haven't fixed yet, you're exactly the kind of person i love working with!
+Samples from a large, ongoing project of mine - a complete remake of a Fate/Grand Order character's stats and profile page. The page is fully customizable, letting me spec out original combat ideas and character designs. This project is incomplete - if you can spot any of the small inconsistencies in these samples I haven't fixed yet, you're exactly the kind of person I love working with!
 
-[about](#alexis-eva-layout--asset-specialist-portfolio) • [printed and digital ttrpg](#printed-and-digital-ttrpg-blades-of-ether) • [work to specification](#work-to-specification) • [remixes and imitations](#remixes-and-imitations) • [high-resolution remakes](#high-resolution-remakes)
+
+[About](#alexis-eva-layout--asset-apecialist-portfolio) • [Printed and Digital TTRPG](#printed-and-digital-ttrpg-blades-of-ether) • [Work to Specification](#work-to-specification) • [Remixes and Imitations](#remixes-and-imitations) • [High-Resolution Remakes](#high-resolution-remakes)
