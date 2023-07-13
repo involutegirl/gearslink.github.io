@@ -2,15 +2,6 @@
 ---
 
 @import "{{ site.theme }}";
-
-body {
+a {
 	color:#d8d8d8;
-}
-
-body:link {
-	color:aquamarine;
-}
-
-body:link:hover {
-	color:aqua;
 }
