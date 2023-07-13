@@ -3,5 +3,14 @@
 
 @import "{{ site.theme }}";
 a {
-	color:#d8d8d8;
+	color:white;
+}
+body {
+	color:aqua;
+}
+body:link {
+	color:blue;
+}
+a:link {
+	color:blueviolet;
 }
