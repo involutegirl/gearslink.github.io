@@ -3,10 +3,14 @@
 
 @import "{{ site.theme }}";
 
-a {
+body {
 	color:rgb(216, 216, 216);
 }
 
-a:any-link {
-	color:rgb(207, 104, 207);
+body:link {
+	color:aquamarine;
+}
+
+body:link:hover {
+	color:aqua;
 }
