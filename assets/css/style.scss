@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
-body {
-	color:white
+a {
+	color:rgb(216, 216, 216);
+}
+
+a:any-link {
+	color:rgb(207, 104, 207);
 }
