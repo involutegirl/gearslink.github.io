@@ -1,6 +1,6 @@
 # Alexis Eva Layout & Asset Specialist Portfolio
 
-[About](#alexis-eva-layout--asset-apecialist-portfolio) • [Printed and Digital TTRPG](#printed-and-digital-ttrpg-blades-of-ether) • [Work to Specification](#work-to-specification) • [Remixes and Imitations](#remixes-and-imitations) • [High-Resolution Remakes](#high-resolution-remakes)
+[About](#alexis-eva-layout--asset-apecialist-portfolio) • [Printed and Digital TTRPG](#printed-and-digital-ttrpg-blades-of-ether) • [Work to Specification](#work-to-specification) • [Remixes and Imitations](#remixes-and-imitations) • [High-Resolution Remakes](#high-resolution-remakes) • [Spreadsheet Wizardry](#spreadsheet-wizardry)
 
 I'm alexis! between travelling the country to run, commentate, and provide A/V for massive livestream charity events, putting together local social groups and developing careers in installation A/V and DevOps Engineering, I've nursed a hobby in photo edits, imitation, and desktop and print publishing for over 10 years. If you need it matched, to-spec, or print-ready, I'm your girl!
 
@@ -118,5 +118,26 @@ The character card from Xenoblade Chronicles X, remade from scratch using the or
 <br>
 Samples from a large, ongoing project of mine - a complete remake of a Fate/Grand Order character's stats and profile page. The page is fully customizable, letting me spec out original combat ideas and character designs. This project is incomplete - if you can spot any of the small inconsistencies in these samples I haven't fixed yet, you're exactly the kind of person I love working with!
 
+## Spreadsheet Wizardry
 
-[About](#alexis-eva-layout--asset-apecialist-portfolio) • [Printed and Digital TTRPG](#printed-and-digital-ttrpg-blades-of-ether) • [Work to Specification](#work-to-specification) • [Remixes and Imitations](#remixes-and-imitations) • [High-Resolution Remakes](#high-resolution-remakes)
+As a side hobby to my hobby, I love making TTRPG character sheet spreadsheets and doing all sorts of other things that spreadsheets shouldn't generally be used for. Automation, regex, and complex sheet animation make for a fun way to prototype and effectively store and convey information.
+
+You can see all of my publically available TTRPG spreadsheets [here](https://gears.link/ttrpg)!
+
+<div style="display:flex">
+    <div style="flex:1;padding-right:10px;">
+        <img src="images/sheets/overlight.png"/>
+    </div>
+    <div style="flex:1;padding-left:10px;">
+        <img src="images/sheets/ffgsw.png"/>
+    </div>
+</div>
+<br>
+
+Tabletop gaming spreadsheets for the systems Overlight and Fantasy Flight Games' Star Wars RPG. Full of flavor, automation, and compactly delivered help text and player information!
+
+![alt text](/images/sheets/tension.png)
+
+A prototype of a unique TTRPG combat system I've been tinkering with for a while. Boxes light up, flash information, and change colors to indicate the battle's status based on just a few numbers.
+
+[About](#alexis-eva-layout--asset-apecialist-portfolio) • [Printed and Digital TTRPG](#printed-and-digital-ttrpg-blades-of-ether) • [Work to Specification](#work-to-specification) • [Remixes and Imitations](#remixes-and-imitations) • [High-Resolution Remakes](#high-resolution-remakes) • [Spreadsheet Wizardry](#spreadsheet-wizardry)

@@ -4,13 +4,17 @@
 @import "{{ site.theme }}";
 a {
 	color:white;
+	background-color:rgb(33, 103, 124);
 }
 body {
-	color:aqua;
-}
-body:link {
-	color:blue;
+	color:rgb(240, 240, 240);
 }
 a:link {
-	color:blueviolet;
+	color:rgb(141, 94, 185);
+}
+a:link:visited {
+	color:rgb(163, 143, 182);
+}
+a:link:hover {
+	color:rgb(134, 59, 204);
 }
