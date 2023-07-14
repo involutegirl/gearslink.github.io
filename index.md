@@ -24,10 +24,10 @@ I was part of the development team for the tabletop roleplaying game "Blades of 
 
 <div style="display:flex">
     <div style="flex:1;padding-right:10px;">
-        <img src="images/bladesofether/character%20sheet.jpg"/>
+        <img src="images/bladesofether/character%20sheet.jpg" loading="lazy"/>
     </div>
     <div style="flex:1;padding-left:10px;">
-        <img src="images/bladesofether/printbooks_inside.jpg"/>
+        <img src="images/bladesofether/printbooks_inside.jpg" loading="lazy"/>
     </div>
 </div>
 <br>
@@ -39,13 +39,13 @@ If given a specification or work set, I'll match it to the letter. Here's two ex
 <br>
 <div style="display:flex">
     <div style="flex:1;padding-right:10px;">
-        <img src="images/spec/pukmastodon.png"/>
+        <img src="images/spec/pukmastodon.png" loading="lazy"/>
     </div>
     <div style="flex:1;padding-left:10px;">
-        <img src="images/spec/volumniaid.png"/>
+        <img src="images/spec/volumniaid.png" loading="lazy"/>
     </div>
     <div style="flex:1;padding-left:10px;">
-        <img src="images/spec/volumniaid_back.png"/>
+        <img src="images/spec/volumniaid_back.png" loading="lazy"/>
     </div>
 </div>
 <br>
@@ -57,17 +57,17 @@ over the years, i've edited, remixed, and remade countless images and assets. I 
 <br>
 <div style="display:flex">
     <div style="flex:1;padding-right:10px;">
-        <img src="images/remixes/reference_fgoapplogo.jpg"/>
+        <img src="images/remixes/reference_fgoapplogo.jpg" loading="lazy"/>
     </div>
     <div style="flex:1;padding-left:10px;">
-        <img src="images/remixes/fgoicon.png"/>
+        <img src="images/remixes/fgoicon.png" loading="lazy"/>
     </div>
 </div>
 <br>
 
 A custom app icon for Fate/Grand Order, made to iOS spec, featuring my favorite character.
 
-![alt text](images/remixes/yeteepromopuwp.png "Yetee promo on PUWP")
+![](images/remixes/yeteepromopuwp.png "Yetee promo on PUWP")
 
 [Power Up With Pride](https://powerupwithpride.org) is a livestreamed Twitch charity marathon I co-founded and ran for many years that's raised over $100,000 for the Trevor Project! When working for small events, you aren't always given the assets you need. Here, I combined individual samples of purchasable t-shirts into a stylish information block, complete with links, logos, and purchase information that both matches the shirt brand's image and event's own assets.
 
@@ -78,10 +78,10 @@ A particular passion of mine is remaking assets from works I enjoy in high resol
 <br>
 <div style="display:flex">
     <div style="flex:1;padding-right:10px;">
-        <img src="images/remakes/reference_xcxcard.png"/>
+        <img src="images/remakes/reference_xcxcard.png" loading="lazy"/>
     </div>
     <div style="flex:1;padding-left:10px;">
-        <img src="images/remakes/xcxcard.png"/>
+        <img src="images/remakes/xcxcard.png" loading="lazy"/>
     </div>
 </div>
 <br>
@@ -91,28 +91,28 @@ The character card from Xenoblade Chronicles X, remade from scratch using the or
 <br>
 <div style="display:flex">
     <div style="flex:1;padding-right:10px;">
-        <img src="images/remakes/reference_skills.png"/>
+        <img src="images/remakes/reference_skills.png" loading="lazy"/>
     </div>
     <div style="flex:1;padding-left:10px;">
-        <img src="images/remakes/skills.png"/>
+        <img src="images/remakes/skills.png" loading="lazy"/>
     </div>
 </div>
 
 <div style="display:flex">
     <div style="flex:1;padding-right:10px;">
-        <img src="images/remakes/reference_commandcards.png"/>
+        <img src="images/remakes/reference_commandcards.png" loading="lazy"/>
     </div>
     <div style="flex:1;padding-left:10px;">
-        <img src="images/remakes/commandcards.png"/>
+        <img src="images/remakes/commandcards.png" loading="lazy"/>
     </div>
 </div>
 
 <div style="display:flex">
     <div style="flex:1;padding-right:10px;">
-        <img src="images/remakes/reference_params.png"/>
+        <img src="images/remakes/reference_params.png" loading="lazy"/>
     </div>
     <div style="flex:1;padding-left:10px;">
-        <img src="images/remakes/params.png"/>
+        <img src="images/remakes/params.png" loading="lazy"/>
     </div>
 </div>
 <br>
@@ -126,17 +126,17 @@ You can see all of my publically available TTRPG spreadsheets [here](https://gea
 
 <div style="display:flex">
     <div style="flex:1;padding-right:10px;">
-        <img src="images/sheets/overlight.png"/>
+        <img src="images/sheets/overlight.png" loading="lazy"/>
     </div>
     <div style="flex:1;padding-left:10px;">
-        <img src="images/sheets/ffgsw.png"/>
+        <img src="images/sheets/ffgsw.png" loading="lazy"/>
     </div>
 </div>
 <br>
 
 Tabletop gaming spreadsheets for the systems Overlight and Fantasy Flight Games' Star Wars RPG. Full of flavor, automation, and compactly delivered help text and player information!
 
-![alt text](/images/sheets/tension.png)
+![](/images/sheets/tension.png)
 
 A prototype of a unique TTRPG combat system I've been tinkering with for a while. Boxes light up, flash information, and change colors to indicate the battle's status based on just a few numbers.
 
