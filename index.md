@@ -123,7 +123,7 @@ Samples from a large, ongoing project of mine - a complete remake of a Fate/Gran
 
 As a side hobby to my hobby, I love making TTRPG character sheet spreadsheets and doing all sorts of other things that spreadsheets shouldn't generally be used for. Automation, regex, and complex sheet animation make for a fun way to prototype and effectively store and convey information.
 
-You can see all of my publically available TTRPG spreadsheets [here](https://gears.link/ttrpg)!
+[You can see all of my publically available TTRPG spreadsheets here](https://gears.link/ttrpg)!
 
 <div style="display:flex">
     <div style="flex:1;padding-right:10px;">
