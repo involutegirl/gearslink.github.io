@@ -2,7 +2,7 @@
 
 [About](#alexis-eva-layout--asset-apecialist-portfolio) • [Printed and Digital TTRPG](#printed-and-digital-ttrpg-blades-of-ether) • [Work to Specification](#work-to-specification) • [Remixes and Imitations](#remixes-and-imitations) • [High-Resolution Remakes](#high-resolution-remakes) • [Spreadsheet Wizardry](#spreadsheet-wizardry)
 
-I'm alexis! between travelling the country to run, commentate, and provide A/V for massive livestream charity events, putting together local social groups and developing careers in installation A/V and DevOps Engineering, I've nursed a hobby in photo edits, imitation, and desktop and print publishing for over 10 years. If you need it matched, to-spec, or print-ready, I'm your girl!
+I'm Alexis! between travelling the country to run, commentate, and provide A/V for massive livestream charity events, putting together local social groups and developing careers in installation A/V and DevOps Engineering, I've nursed a hobby in photo edits, imitation, and desktop and print publishing for over 10 years. If you need it matched, to-spec, or print-ready, I'm your girl!
 
 My experience in community moderation and event management makes me the perfect pick to work with and reach out to artists and designers, and my background in programming means I'm ready to take advantage of everything from simple python organizational scripts to sprawling cloud infrastructures. Having built my skills as a hobbyist, my passion and attention to detail are second-to-none. I'll match the specification to the letter and pour over every pixel along the way. Of course, I also know when enough's enough, having had to make edits and adjustments on the clock during livestreamed events. Here's some samples of my work!
 
