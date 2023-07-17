@@ -32,7 +32,7 @@ I was part of the development team for the tabletop roleplaying game "Blades of 
 </div>
 <br>
 
-## work to specification
+## Work to Specification
 
 If given a specification or work set, I'll match it to the letter. Here's two examples, an asset set for a Mastodon instance, and a fictional ID card that's ready to print.
 
@@ -50,9 +50,9 @@ If given a specification or work set, I'll match it to the letter. Here's two ex
 </div>
 <br>
 
-## remixes and imitations
+## Remixes and Imitations
 
-over the years, i've edited, remixed, and remade countless images and assets. I thrive on high-resolution and vector assets and the chance to explore details down to the pixel.
+Over the years, I've edited, remixed, and remade countless images and assets. I thrive on high-resolution and vector assets and the chance to explore details down to the pixel.
 
 <br>
 <div style="display:flex">
@@ -116,6 +116,7 @@ The character card from Xenoblade Chronicles X, remade from scratch using the or
     </div>
 </div>
 <br>
+
 Samples from a large, ongoing project of mine - a complete remake of a Fate/Grand Order character's stats and profile page. The page is fully customizable, letting me spec out original combat ideas and character designs. This project is incomplete - if you can spot any of the small inconsistencies in these samples I haven't fixed yet, you're exactly the kind of person I love working with!
 
 ## Spreadsheet Wizardry
